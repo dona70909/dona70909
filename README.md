@@ -9,7 +9,7 @@
 ### <img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 
 
-[![Dona's GitHub stats](https://github-readme-stats.vercel.app/api?username=dona70909)](https://github.com/dona70909/github-readme-stats&show_icons=true&theme=dark)
+[![Dona's GitHub stats](https://github-readme-stats.vercel.app/api?username=dona70909&show_icons=true&theme=dark)](https://github.com/dona70909/github-readme-stats)
 
 
 <!--
